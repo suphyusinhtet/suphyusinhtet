@@ -1,6 +1,7 @@
 # Hi there, I'm Su Phyu Sin Htet. 👋
 
-Welcome to my GitHub profile! I'm a passionate front-end developer currently pursuing my Master's degree in Artificial Intelligence Technology. I love working with modern web technologies and building scalable AI applications.
+Welcome to my GitHub profile 👋 I’m an AI Engineer passionate about ML, LLMs, and intelligent systems.
+Currently building, experimenting, and leveling up every day 🚀
 
 ## 🚀 About Me
 
