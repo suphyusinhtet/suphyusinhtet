@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer currently pur
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/ https://www.linkedin.com/in/su-phyu-sin-htet/])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/su-phyu-sin-htet/])
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:suphyusinhtet@gmail.com)
 
 ## 🎨 Recent Projects
