@@ -46,6 +46,7 @@ Currently building, experimenting, and leveling up every day 🚀
 
 [![Stock Price Prediction Project]( https://github.com/suphyusinhtet/stockprice_prediction?tab=readme-ov-file#readme)]( https://github.com/suphyusinhtet/stockprice_prediction)
 [![AI health Assistant]( https://github.com/HeinThuAung-11/AI-Health-Assistant?tab=readme-ov-file#readme)]( https://github.com/HeinThuAung-11/AI-Health-Assistant)
+[![CampaignMind](https://github.com/suphyusinhtet/CampaignMind?tab=readme-ov-file#readme)](https://campaign-mind.vercel.app/)
 Thanks for visiting my profile! 😊
 
 
